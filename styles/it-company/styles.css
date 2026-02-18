@@ -1,0 +1,74 @@
+head {
+    width: 125%;
+}
+body{
+background-color: pink
+}
+.line{
+    text-align: center;    
+    line-height: 1;
+}
+h1 {
+    text-align: center;     
+    color: rgb(216, 149, 24);  
+    line-height: 1;          
+}
+p {
+    text-align: center;    
+    font-size : 18px;
+    line-height: 2;
+}
+
+.contacts-title {
+    text-align: center;    
+    margin-top: 2px;   
+    margin-bottom: 1px;
+}
+.contacts-text {
+    text-align: center;    
+    line-height: 1.25;
+}
+table {
+    text-align: center; 
+    margin: 0 auto;
+}
+.top{
+    text-align: center;    
+    margin-top: 2px;   
+    margin-bottom: 1px;
+}
+.bottom{
+    text-align: center;    
+    line-height: 1.25;
+    padding: 20px 18px;
+    text-align: left;
+}
+.image{
+    text-align: left;
+    width: 100px;
+    position: absolute;
+    top: 70px;
+    left: 200px;
+}
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+.link {
+    text-align: right;
+    position: absolute;
+    top: 400px;
+    right: 300px;
+}
+a:visited {
+    color: purple;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    text-decoration: underline;
+}
