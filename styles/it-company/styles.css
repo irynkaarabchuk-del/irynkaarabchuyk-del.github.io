@@ -1,8 +1,5 @@
-head {
-    width: 125%;
-}
 body{
-background-color: pink
+    background-color: pink;
 }
 .line{
     text-align: center;    
@@ -18,7 +15,6 @@ p {
     font-size : 18px;
     line-height: 2;
 }
-
 .contacts-title {
     text-align: center;    
     margin-top: 2px;   
@@ -38,7 +34,6 @@ table {
     margin-bottom: 1px;
 }
 .bottom{
-    text-align: center;    
     line-height: 1.25;
     padding: 20px 18px;
     text-align: left;
